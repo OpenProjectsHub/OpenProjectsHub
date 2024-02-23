@@ -16,9 +16,9 @@ We welcome contributions from developers of all skill levels! Here's how you can
 
 ## Projects
 
-- [Shopspire-Fronted](https://github.com/WaveScript/Shopspire-fronted) - A shopping website fronted
-- [Shopspire-App](https://github.com/WaveScript/Shopspire-App) - A shopping app
-- [Shopspire-Admin](https://github.com/WaveScript/Shopspire-Admin) - A shopping app/website admin panel
+- [Shopspire-Fronted](https://github.com/WaveScript/Shopspire-fronted) - A shopping website fronted - by [@sahilarun](https://github.com/sahilarun)
+- [Shopspire-App](https://github.com/WaveScript/Shopspire-App) - A shopping app - by [@sahilarun](https://github.com/sahilarun)
+- [Shopspire-Admin](https://github.com/WaveScript/Shopspire-Admin) - A shopping app/website admin panel - by [@sahilarun](https://github.com/sahilarun)
 ---
 
 If you have any questions, suggestions, or feedback, please don't hesitate to reach out to us. We'd love to hear from you!
