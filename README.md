@@ -1,7 +1,3 @@
-# OpenProjectsHub
-
-Welcome to OpenProjectsHub – A collaborative GitHub repository where developers can share, discover, and contribute to open-source projects!
-
 ## About
 
 OpenProjectsHub serves as a central hub for developers to showcase their projects, collaborate with others, and contribute to open-source software. Whether you're a beginner looking to learn, an experienced developer seeking collaboration, or simply interested in exploring new projects, you'll find something valuable here.
