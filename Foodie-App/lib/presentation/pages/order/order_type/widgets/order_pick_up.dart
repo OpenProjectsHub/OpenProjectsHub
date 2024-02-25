@@ -4,12 +4,12 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:riverpodtemp/application/order/order_provider.dart';
-import 'package:riverpodtemp/infrastructure/services/app_constants.dart';
-import 'package:riverpodtemp/infrastructure/services/app_helpers.dart';
-import 'package:riverpodtemp/presentation/components/select_item.dart';
-import 'package:riverpodtemp/presentation/components/title_icon.dart';
-import 'package:riverpodtemp/presentation/theme/app_style.dart';
+import 'package:shoppingapp/application/order/order_provider.dart';
+import 'package:shoppingapp/infrastructure/services/app_constants.dart';
+import 'package:shoppingapp/infrastructure/services/app_helpers.dart';
+import 'package:shoppingapp/presentation/components/select_item.dart';
+import 'package:shoppingapp/presentation/components/title_icon.dart';
+import 'package:shoppingapp/presentation/theme/app_style.dart';
 
 import '../../../../../infrastructure/services/tr_keys.dart';
 
