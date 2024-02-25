@@ -1,16 +1,16 @@
 import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:riverpodtemp/application/product/product_notifier.dart';
-import 'package:riverpodtemp/application/product/product_state.dart';
-import 'package:riverpodtemp/application/shop_order/shop_order_notifier.dart';
-import 'package:riverpodtemp/application/shop_order/shop_order_state.dart';
-import 'package:riverpodtemp/infrastructure/services/app_helpers.dart';
-import 'package:riverpodtemp/infrastructure/services/local_storage.dart';
-import 'package:riverpodtemp/infrastructure/services/tr_keys.dart';
-import 'package:riverpodtemp/presentation/components/buttons/custom_button.dart';
+import 'package:shoppingapp/application/product/product_notifier.dart';
+import 'package:shoppingapp/application/product/product_state.dart';
+import 'package:shoppingapp/application/shop_order/shop_order_notifier.dart';
+import 'package:shoppingapp/application/shop_order/shop_order_state.dart';
+import 'package:shoppingapp/infrastructure/services/app_helpers.dart';
+import 'package:shoppingapp/infrastructure/services/local_storage.dart';
+import 'package:shoppingapp/infrastructure/services/tr_keys.dart';
+import 'package:shoppingapp/presentation/components/buttons/custom_button.dart';
 import 'package:intl/intl.dart' as intl;
-import 'package:riverpodtemp/presentation/routes/app_router.dart';
+import 'package:shoppingapp/presentation/routes/app_router.dart';
 import '../../../theme/app_style.dart';
 
 class ProductMainButton extends StatelessWidget {
