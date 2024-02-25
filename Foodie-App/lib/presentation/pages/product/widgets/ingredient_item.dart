@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_vibrate/flutter_vibrate.dart';
-import 'package:riverpodtemp/application/product/product_provider.dart';
-import 'package:riverpodtemp/infrastructure/models/data/addons_data.dart';
-import 'package:riverpodtemp/infrastructure/services/local_storage.dart';
-import 'package:riverpodtemp/presentation/theme/theme.dart';
+import 'package:shoppingapp/application/product/product_provider.dart';
+import 'package:shoppingapp/infrastructure/models/data/addons_data.dart';
+import 'package:shoppingapp/infrastructure/services/local_storage.dart';
+import 'package:shoppingapp/presentation/theme/theme.dart';
 import 'package:intl/intl.dart' as intl;
 
 import '../../../components/custom_checkbox.dart';
