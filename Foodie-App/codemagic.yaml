@@ -1,0 +1,12 @@
+  testFlight:
+    name: Publishing to TestFight workflow
+    environment:
+      ios_signing:
+        - ProvProfile_salam
+      certificates:
+        - Distribute_Certificate
+    integrations:
+      app_store_connect: Githubit
+    publishing:
+      auth: integration
+      sumbit_to_testflight: true
