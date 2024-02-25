@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:riverpodtemp/application/order/order_state.dart';
-import 'package:riverpodtemp/infrastructure/services/app_helpers.dart';
-import 'package:riverpodtemp/infrastructure/services/local_storage.dart';
-import 'package:riverpodtemp/infrastructure/services/tr_keys.dart';
+import 'package:shoppingapp/application/order/order_state.dart';
+import 'package:shoppingapp/infrastructure/services/app_helpers.dart';
+import 'package:shoppingapp/infrastructure/services/local_storage.dart';
+import 'package:shoppingapp/infrastructure/services/tr_keys.dart';
 import 'package:intl/intl.dart' as intl;
-import 'package:riverpodtemp/presentation/theme/app_style.dart';
+import 'package:shoppingapp/presentation/theme/app_style.dart';
 import 'widgets/title_price.dart';
 
 class PriceInformation extends StatelessWidget {
