@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:riverpodtemp/infrastructure/models/data/refund_data.dart';
-import 'package:riverpodtemp/infrastructure/services/app_helpers.dart';
-import 'package:riverpodtemp/infrastructure/services/tr_keys.dart';
-import 'package:riverpodtemp/presentation/theme/app_style.dart';
+import 'package:shoppingapp/infrastructure/models/data/refund_data.dart';
+import 'package:shoppingapp/infrastructure/services/app_helpers.dart';
+import 'package:shoppingapp/infrastructure/services/tr_keys.dart';
+import 'package:shoppingapp/presentation/theme/app_style.dart';
 import 'package:intl/intl.dart' as intl;
 
 class RefundInfoScreen extends StatelessWidget {
