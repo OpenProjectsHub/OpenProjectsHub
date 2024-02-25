@@ -3,16 +3,16 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:pull_to_refresh/pull_to_refresh.dart';
-import 'package:riverpodtemp/application/orders_list/orders_list_notifier.dart';
-import 'package:riverpodtemp/application/orders_list/orders_list_provider.dart';
-import 'package:riverpodtemp/infrastructure/services/app_helpers.dart';
-import 'package:riverpodtemp/infrastructure/services/local_storage.dart';
-import 'package:riverpodtemp/infrastructure/services/tr_keys.dart';
-import 'package:riverpodtemp/presentation/components/app_bars/common_app_bar.dart';
-import 'package:riverpodtemp/presentation/components/buttons/pop_button.dart';
-import 'package:riverpodtemp/presentation/components/custom_tab_bar.dart';
-import 'package:riverpodtemp/presentation/components/loading.dart';
-import 'package:riverpodtemp/presentation/theme/theme.dart';
+import 'package:shoppingapp/application/orders_list/orders_list_notifier.dart';
+import 'package:shoppingapp/application/orders_list/orders_list_provider.dart';
+import 'package:shoppingapp/infrastructure/services/app_helpers.dart';
+import 'package:shoppingapp/infrastructure/services/local_storage.dart';
+import 'package:shoppingapp/infrastructure/services/tr_keys.dart';
+import 'package:shoppingapp/presentation/components/app_bars/common_app_bar.dart';
+import 'package:shoppingapp/presentation/components/buttons/pop_button.dart';
+import 'package:shoppingapp/presentation/components/custom_tab_bar.dart';
+import 'package:shoppingapp/presentation/components/loading.dart';
+import 'package:shoppingapp/presentation/theme/theme.dart';
 import 'widgets/orders_item.dart';
 
 @RoutePage()
