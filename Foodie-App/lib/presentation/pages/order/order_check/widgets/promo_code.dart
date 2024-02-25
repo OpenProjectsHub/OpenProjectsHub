@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:riverpodtemp/application/order/order_provider.dart';
-import 'package:riverpodtemp/application/promo_code/promo_code_state.dart';
-import 'package:riverpodtemp/infrastructure/services/app_helpers.dart';
-import 'package:riverpodtemp/infrastructure/services/tr_keys.dart';
-import 'package:riverpodtemp/presentation/components/buttons/custom_button.dart';
-import 'package:riverpodtemp/presentation/components/text_fields/outline_bordered_text_field.dart';
-import 'package:riverpodtemp/presentation/components/title_icon.dart';
-import 'package:riverpodtemp/presentation/theme/theme.dart';
+import 'package:shoppingapp/application/order/order_provider.dart';
+import 'package:shoppingapp/application/promo_code/promo_code_state.dart';
+import 'package:shoppingapp/infrastructure/services/app_helpers.dart';
+import 'package:shoppingapp/infrastructure/services/tr_keys.dart';
+import 'package:shoppingapp/presentation/components/buttons/custom_button.dart';
+import 'package:shoppingapp/presentation/components/text_fields/outline_bordered_text_field.dart';
+import 'package:shoppingapp/presentation/components/title_icon.dart';
+import 'package:shoppingapp/presentation/theme/theme.dart';
 
 import '../../../../../../application/promo_code/promo_code_notifier.dart';
 import '../../../../../../application/promo_code/promo_code_provider.dart';
