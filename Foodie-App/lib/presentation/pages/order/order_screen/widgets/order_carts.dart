@@ -2,17 +2,17 @@ import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:riverpodtemp/application/order/order_provider.dart';
-import 'package:riverpodtemp/application/shop_order/shop_order_provider.dart';
-import 'package:riverpodtemp/infrastructure/services/app_constants.dart';
-import 'package:riverpodtemp/infrastructure/services/app_helpers.dart';
-import 'package:riverpodtemp/infrastructure/services/local_storage.dart';
-import 'package:riverpodtemp/infrastructure/services/tpying_delay.dart';
-import 'package:riverpodtemp/infrastructure/services/tr_keys.dart';
-import 'package:riverpodtemp/presentation/components/title_icon.dart';
-import 'package:riverpodtemp/presentation/pages/shop/cart/widgets/cart_clear_dialog.dart';
-import 'package:riverpodtemp/presentation/pages/shop/cart/widgets/cart_order_item.dart';
-import 'package:riverpodtemp/presentation/theme/app_style.dart';
+import 'package:shoppingapp/application/order/order_provider.dart';
+import 'package:shoppingapp/application/shop_order/shop_order_provider.dart';
+import 'package:shoppingapp/infrastructure/services/app_constants.dart';
+import 'package:shoppingapp/infrastructure/services/app_helpers.dart';
+import 'package:shoppingapp/infrastructure/services/local_storage.dart';
+import 'package:shoppingapp/infrastructure/services/tpying_delay.dart';
+import 'package:shoppingapp/infrastructure/services/tr_keys.dart';
+import 'package:shoppingapp/presentation/components/title_icon.dart';
+import 'package:shoppingapp/presentation/pages/shop/cart/widgets/cart_clear_dialog.dart';
+import 'package:shoppingapp/presentation/pages/shop/cart/widgets/cart_order_item.dart';
+import 'package:shoppingapp/presentation/theme/app_style.dart';
 
 class OrderCarts extends StatefulWidget {
   final double lat;
