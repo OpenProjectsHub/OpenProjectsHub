@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_vibrate/flutter_vibrate.dart';
-import 'package:riverpodtemp/presentation/theme/theme.dart';
+import 'package:shoppingapp/presentation/theme/theme.dart';
 
 class SizeItem extends StatelessWidget {
   final VoidCallback onTap;
